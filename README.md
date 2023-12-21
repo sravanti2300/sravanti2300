@@ -13,17 +13,13 @@
 - 🎓 I'm pursuing my Masters in Sciences, Software Engineering Systems at Northeastern University, Boston.
 - 💻 In my role at Rupeek, I led the development of 12+ microservice applications, optimizing payment transaction handling using AWS, Node.js, Java, MongoDB, and Redis.
 - 🌐 Skills: Javascript, Python, Java, HTML, CSS, Node.js, AWS (SQS-SNS, S3, EC2, Lambda), Docker, Jenkins, and more.
-- 🚀 Check out my [portfolio](YourPortfolioLink) for details on my latest projects.
+- 🚀 Check out my [portfolio](https://sravanti2300.github.io/) for details on my latest projects.
 
 #### Academic Projects:
 
 - **Whatsapp Automated Chatbot (Aug 2023)**
   - Built a Rules-Based WhatsApp Chatbot Micro Service using Express.js and integrated ChatGPT for user prompts.
   - Implemented a read-through cache technique for efficient data storage.
-
-- **Stock Portfolio Analyzing System (Jun 2020 - Jun 2021)**
-  - Implemented core logic using Factory Pattern in Spring Boot.
-  - Enhanced application stability with error reporting, exception handling, and achieved a 50% increase in responsiveness.
 
 #### Connect with me:
 
