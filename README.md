@@ -24,7 +24,7 @@
 #### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sravanti-kanchi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Portfolio-brightgreen)](YourPortfolioLink)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Portfolio-brightgreen)](portfolio](https://sravanti2300.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-9cf)](https://github.com/sravanti2300)
 
 Feel free to explore my GitHub repositories for more exciting projects!
