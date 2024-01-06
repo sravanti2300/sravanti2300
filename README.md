@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Sravanti Kanchi, a Software Development Engineer.
 
-- 🔭 I’m currently working on optimizing microservices for seamless payment transactions at Rupeek, India.
+- 🔭 I worked on optimizing microservices for seamless payment transactions at Rupeek, India.
 - 🌱 I’m currently diving into advanced AWS services and exploring new possibilities in cloud architecture.
 - 👯 I’m looking to collaborate on projects related to scalable web applications and cloud-native development.
 - 💬 Ask me about microservices, AWS architecture, or my experience in optimizing loan data synchronization.
